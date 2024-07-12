@@ -26,7 +26,7 @@ function Tokenomics() {
 
           <div className="grid sm:grid-cols-3 gap-10 items-center">
             <div>
-              <h1 className=" text-center  text-2xl text-b">LP BURN</h1>
+              <h1 className=" text-center  text-2xl text-b text-white">LP BURN</h1>
               <img
                 src="/images/burn.jpeg"
                 className="w-auto rounded-2xl"
@@ -35,7 +35,7 @@ function Tokenomics() {
             </div>
 
             <div>
-              <h1 className=" text-center  text-2xl">TAX 0%</h1>
+              <h1 className=" text-center  text-2xl text-white">TAX 0%</h1>
               <img
                 src="/images/tax.jpeg"
                 className="w-auto rounded-2xl"
@@ -44,7 +44,7 @@ function Tokenomics() {
             </div>
 
             <div>
-              <h1 className=" text-center  text-2xl">RENOUNCED</h1>
+              <h1 className=" text-center  text-2xl text-white">RENOUNCED</h1>
               <img
                 src="/images/anno.jpeg"
                 className="w-auto rounded-2xl"

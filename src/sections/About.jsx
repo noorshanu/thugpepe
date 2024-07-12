@@ -17,10 +17,10 @@ function About() {
         </div>
 
         <div>
-          <Title className="lh-1_5 mb-3  py-2 stroke-black text-stroke-3 font-bold font-coffee text-[#8ff852]">About Us</Title>
+          <Title className="lh-1_5 mb-3  py-2 stroke-black  font-bold font-coffee text-[#000000]">About Us</Title>
 
           <p className=" text-2xl font-medium text-black ">
-          Welcome to the kingdom of Royal Pepe, where memes meet crypto in a fusion of fun and fortune! Royal Pepe is not just another meme coin; we're on a mission to become the one true ruler of Solana's meme realm. Royal Pepe brings you endless excitement, hype on every pump, and best of all, a 0% fee on all purchases for our beloved holders!
+          Thug Pepe - $PEPET on Solana is fueled by humor and brotherhood, we hustle in the Solana meme world, aiming for lambo and gangsta gains. Roll with meme wizards and crypto fanatics, embracing the tough love of the internet: resilience, comedy, and trolling.
           </p>
         </div>
       </div>

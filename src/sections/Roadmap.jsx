@@ -42,7 +42,7 @@ function Roadmap() {
         <Title className=" mb-10 mt-2 text-center text-3xl sm:text-6xl lg:text-6xl font-bold  lh-1_4 stroke-black text-stroke-3  font-coffee text-[#8ff852]">
           ROADMAP
         </Title>
-        <p className=" text-center">
+        <p className=" text-center text-white">
           Our journey is just beginning, and here's what's in store!
         </p>
 

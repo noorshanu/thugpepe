@@ -38,10 +38,14 @@ function JoinCommunity() {
         </div>
 
         <div className="flex flex-col  items-center justify-center mb-2 lg:mb-20 text-center lg:text-left space-y-6 lg:space-y-0">
-          <h1 className="text-3xl sm:text-5xl lg:text-4xl font-bold  lh-1_4 stroke-black text-stroke-3  font-coffee text-[#8ff852]">
+          <h1 className="text-3xl sm:text-5xl lg:text-4xl font-bold  lh-1_4 stroke-black  font-coffee ">
             Follow Us <br />
          
           </h1>
+
+          <p className=" text-center py-2">
+          $PEPET is all about Hustle, Laugh, Profit! Join the Solana movement <br /> where humor, hustle, and thug life turn screw-ups into 1000x gains!
+          </p>
           <div className="flex items-center -m-1 flex-wrap justify-center lg:justify-normal">
             <Button  link="https://www.dextools.io/app/en/solana/pair-explorer/262B2uYqBtQPmiwccpRCejzUv6QjJXTNDWFDRwKgGTzs?t=1718203768938" className="bg-[#000] border-2 p-2 border-[#8ff852] m-2">DexTools</Button>
             <Button link="https://x.com/Royalpepeonsol" className="bg-[#000] border-2 p-2 border-[#8ff852] m-2">
@@ -58,11 +62,11 @@ function JoinCommunity() {
      
       
       </div>
-      <div className=" bg-[#aa1115] py-4">
+      <div className=" bg-[#fd7c00] py-4">
       
 
-      <p className="text-center">
-        All rights reserved by Royal PEPE 2024
+      <p className="text-center text-">
+        All rights reserved by <strong className=" font-coffee text-xl">Thug PEPE </strong>2024
       </p>
     </div>
     </section>
