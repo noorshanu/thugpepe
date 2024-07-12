@@ -47,7 +47,7 @@ function JoinCommunity() {
           $PEPET is all about Hustle, Laugh, Profit! Join the Solana movement <br /> where humor, hustle, and thug life turn screw-ups into 1000x gains!
           </p>
           <div className="flex items-center -m-1 flex-wrap justify-center lg:justify-normal">
-            <Button  link="https://www.dextools.io/" className="bg-[#000] border-2 p-2 border-[#8ff852] m-2">DexTools</Button>
+            <Button  link="https://www.dextools.io/app/en/solana/pair-explorer/9s2JPHp6bWhmZNX9vYigWDLZMTkfoye666Ks1ZAkLjYM?t=1720797678528" className="bg-[#000] border-2 p-2 border-[#8ff852] m-2">DexTools</Button>
             <Button link="https://x.com/ThugPepeSol" className="bg-[#000] border-2 p-2 border-[#8ff852] m-2">
               Twitter
             </Button>

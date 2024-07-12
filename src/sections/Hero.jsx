@@ -45,7 +45,7 @@ function Hero() {
               </a>
 
               <a
-                href="https://www.dextools.io/"
+                href="https://www.dextools.io/app/en/solana/pair-explorer/9s2JPHp6bWhmZNX9vYigWDLZMTkfoye666Ks1ZAkLjYM?t=1720797678528"
                 target="_blank"
                 rel="noreferrer"
                 className="py-2 px-2 rounded-full bg-[#000] border-2 border-[#8ff852] text-white font-bold transition-all duration-200 hover:bg-transparent hover:text-[#8ff852] relative text-xl"
@@ -54,7 +54,7 @@ function Hero() {
               </a>
             </div>
             <button className="py-2 px-4 mx-auto items-center flex justify-center  mt-2 rounded-full bg-[#000] border-2 border-[#8ff852] text-white font-bold transition-all duration-200 hover:bg-transparent hover:text-[#8ff852] text-xs sm:text-sm relative">
-              CA: coming soon ...
+              CA: 7QMDHSudZe4m2YvW14pmw6fF6QUEnKDMtkg2VzHK6Yi
             </button>
           </div>
 
