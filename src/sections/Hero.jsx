@@ -21,7 +21,7 @@ function Hero() {
               Thug pepe
             </p> */}
 
-            <img src="/images/thug.png" alt="" className=" h-[170px]" />
+            <img src="/images/thug.png" alt="" className=" h-auto sm:h-[170px]" />
             <p className=" text-center text-base font-bold text-[#000000] py-4">
            Thug PEPE is the real Thug of the Solana meme world
             </p>
@@ -61,7 +61,7 @@ function Hero() {
           <div>
             <img
               src="/images/hero-couple-no-shadow.png"
-              className="w-full h-[350px]  object-contain floating"
+              className="w-full h-[270px] sm:h-[350px]  object-contain floating"
               alt=""
             />
           </div>
