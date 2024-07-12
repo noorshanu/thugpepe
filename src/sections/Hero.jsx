@@ -54,7 +54,7 @@ function Hero() {
               </a>
             </div>
             <button className="py-2 px-4 mx-auto items-center flex justify-center  mt-2 rounded-full bg-[#000] border-2 border-[#8ff852] text-white font-bold transition-all duration-200 hover:bg-transparent hover:text-[#8ff852] text-xs sm:text-sm relative">
-              CA: 81wKRihbkT8cJgGVMCZxnfqpuY6HY2bzMDpLGEox5kK
+              CA: coming soon ...
             </button>
           </div>
 
