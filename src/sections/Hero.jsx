@@ -27,7 +27,7 @@ function Hero() {
             </p>
             <div className=" justify-center flex  items-center gap-3">
               <a
-                href="https://x.com/Royalpepeonsol"
+                href="https://x.com/ThugPepeSol"
                 target="_blank"
                 rel="noreferrer"
                 className="py-2 px-2 rounded-full bg-[#000] border-2 border-[#8ff852] text-white font-bold transition-all duration-200 hover:bg-transparent hover:text-[#8ff852] relative text-xl"
@@ -36,7 +36,7 @@ function Hero() {
               </a>
 
               <a
-                href="https://t.me/Royalpepetoken"
+                href="https://t.me/Thugpepe"
                 target="_blank"
                 rel="noreferrer"
                 className="py-2 px-2 rounded-full bg-[#000] border-2 border-[#8ff852] text-white font-bold transition-all duration-200 hover:bg-transparent hover:text-[#8ff852] relative text-xl"
@@ -45,7 +45,7 @@ function Hero() {
               </a>
 
               <a
-                href="https://www.dextools.io/app/en/solana/pair-explorer/262B2uYqBtQPmiwccpRCejzUv6QjJXTNDWFDRwKgGTzs?t=1718203768938"
+                href="https://www.dextools.io/"
                 target="_blank"
                 rel="noreferrer"
                 className="py-2 px-2 rounded-full bg-[#000] border-2 border-[#8ff852] text-white font-bold transition-all duration-200 hover:bg-transparent hover:text-[#8ff852] relative text-xl"
