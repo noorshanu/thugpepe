@@ -17,24 +17,22 @@ function Navbar() {
                 alt=""
               />
 
-              <p className=" text-2xl text-center py-2 stroke-black text-stroke-3 font-bold font-coffee text-[#8ff852]">
-                Royal pepe
-              </p>
+            
             </div>
          
-          <div className="items-center justify-evenly  gap-2 text-base font-medium text-white hidden lg:flex w-full">
+          <div className="items-center justify-evenly font-coffee  gap-2 text-base font-medium text-black hidden lg:flex w-full">
        
             <a
               href="#about"
               onClick={() => setSidebarOpen(false)}
-              className="cursor-pointer text-sm xl:text-base"
+              className="cursor-pointer text-sm xl:text-2xl font-coffee"
             >
               About us
             </a>
             <a
               href="#road"
               onClick={() => setSidebarOpen(false)}
-              className="cursor-pointer text-sm xl:text-base"
+              className="cursor-pointer text-sm xl:text-2xl font-coffee"
             >
               Roadmap
             </a>
@@ -42,14 +40,14 @@ function Navbar() {
             <Link
               to="/"
               onClick={() => setSidebarOpen(false)}
-              className="cursor-pointer text-sm xl:text-base"
+              className="cursor-pointer text-sm xl:text-2xl font-coffee"
             >
               Socials
             </Link>
             <a
               href="#token"
               onClick={() => setSidebarOpen(false)}
-              className="cursor-pointer text-sm xl:text-base"
+              className="cursor-pointer text-sm xl:text-2xl font-coffee"
             >
               Tokenomics
             </a>

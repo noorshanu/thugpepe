@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: "coffee";
-  src: url("/fonts/coffee.ttf");
+  src: url("/fonts/thug.ttf");
 }
 
 .text-stroke-3 {
@@ -53,7 +53,7 @@
 
   html,
   body {
-    @apply bg-[#edb62f] text-white overflow-x-hidden;
+    @apply bg-[#ffd600] text-black overflow-x-hidden;
   }
 
   .container-wrapper {
