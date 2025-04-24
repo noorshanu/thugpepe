@@ -1,4 +1,5 @@
-import { FaFacebookF, FaDiscord, FaInstagram } from "react-icons/fa";
+/* eslint-disable react/jsx-no-target-blank */
+
 
 const Button = ({ children, className, link }) => {
   return (
@@ -66,7 +67,7 @@ function JoinCommunity() {
       
 
       <p className="text-center text-">
-        All rights reserved by <strong className=" font-coffee text-xl">Thug PEPE </strong>2024
+        All rights reserved by <strong className=" font-coffee text-xl">Thug PEPE </strong>2025
       </p>
     </div>
     </section>
